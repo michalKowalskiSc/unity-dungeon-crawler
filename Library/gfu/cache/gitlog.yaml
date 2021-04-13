@@ -1,0 +1,402 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-04-13T09:31:17.766+02:00
+  initializedAtString: 2021-04-13T09:31:17.766+02:00
+  log:
+  - commitID: c804746670be1eb1f8a7489b1586bd45c337aa76
+    mergeA: 
+    mergeB: 
+    authorName: Zbigniew Malcherczyk
+    authorEmail: zmalcherczyk@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README.md
+    description: 
+    timeString: 2021-04-12T17:01:43.000+02:00
+    commitTimeString: 2021-04-12T17:01:43.000+02:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: c74d8c0ffd8a75511bbf82a2e26d15760dcf2d8c
+    mergeA: 
+    mergeB: 
+    authorName: ferror
+    authorEmail: zmalcherczyk@gmail.com
+    commitEmail: zmalcherczyk@gmail.com
+    commitName: ferror
+    summary: Init
+    description: 
+    timeString: 2021-04-12T17:00:54.000+02:00
+    commitTimeString: 2021-04-12T17:00:54.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\AnnotationManager
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\AnnotationManager
+      projectPath: Library\AnnotationManager
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\BuildPlayer.prefs
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\BuildPlayer.prefs
+      projectPath: Library\BuildPlayer.prefs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\BuildSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\BuildSettings.asset
+      projectPath: Library\BuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\EditorUserSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\EditorUserSettings.asset
+      projectPath: Library\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\MonoManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\MonoManager.asset
+      projectPath: Library\MonoManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.Purchasing.dll
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\UnityEditor.Purchasing.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.Purchasing.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.Purchasing.pdb
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\UnityEditor.Purchasing.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.Purchasing.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.Purchasing.dll
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\UnityEngine.Purchasing.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.Purchasing.pdb
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptAssemblies\UnityEngine.Purchasing.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.Purchasing.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptMapper
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ScriptMapper
+      projectPath: Library\ScriptMapper
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SpriteAtlasDatabase.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\SpriteAtlasDatabase.asset
+      projectPath: Library\SpriteAtlasDatabase.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\TilemapEditorUserSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\TilemapEditorUserSettings.asset
+      projectPath: Library\TilemapEditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: d2421aeca1bc472ac57da45ee3caf3cc1ed877c5
+    mergeA: 
+    mergeB: 
+    authorName: Zbigniew Malcherczyk
+    authorEmail: zmalcherczyk@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: 
+    timeString: 2021-04-12T16:59:11.000+02:00
+    commitTimeString: 2021-04-12T16:59:11.000+02:00
+    changes:
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\AssetImportState
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\AssetImportState
+      projectPath: Library\AssetImportState
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\LibraryFormatVersion.txt
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\LibraryFormatVersion.txt
+      projectPath: Library\LibraryFormatVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ProjectSettings.asset
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ProjectSettings.asset
+      projectPath: Library\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache.db
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\ShaderCache.db
+      projectPath: Library\ShaderCache.db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\Michal\Documents\unity-dungeon-crawler\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
